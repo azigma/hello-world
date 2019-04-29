@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+My goal is to become a developer! I will do my best to express myself through codes!
